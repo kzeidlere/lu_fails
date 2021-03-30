@@ -1,0 +1,16 @@
+def index():
+    return 'Hello'
+
+
+b = index()
+print(b)
+
+
+def func():
+    return 'Hi'
+
+
+function = func()
+print(function)
+
+git rm -r --cached *
