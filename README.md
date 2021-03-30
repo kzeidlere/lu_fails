@@ -1,2 +1,15 @@
-# lu_repositary
-New repository
+def index():
+    return 'Hello'
+
+
+b = index()
+print(b)
+
+
+def func():
+    return 'Hi'
+
+
+function = func()
+print(function)
+
