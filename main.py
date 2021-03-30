@@ -13,4 +13,4 @@ def func():
 function = func()
 print(function)
 
-git rm -r --cached *
+main_py = 'coffee'
